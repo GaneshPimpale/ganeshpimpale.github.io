@@ -1,6 +1,7 @@
 import React from 'react';
 import { Media, Jumbotron, Container, Row, Card, CardDeck } from 'react-bootstrap';
-import { VerifiedUser, BarChart, ThumbUp} from '@material-ui/icons'
+import { VerifiedUser, BarChart, ThumbUp} from '@material-ui/icons';
+import { tsParticles } from 'tsparticles';
 
 import ExternalLayout from "../components/ExternalLayout";
 
@@ -8,7 +9,7 @@ import heroBg from "../img/homepage-bg.png"
 
 function Home() {
   const jumboStyle = {
-    backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.3)), url(${heroBg})`,
+    backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.3)), url(${tsParticles})`,
     height: "100vh",
     alignItems: "center",
     backgroundAttachment: "fixed",
