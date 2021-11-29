@@ -23,7 +23,8 @@ linkedin_username:
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: ankitsultana/researcher@gem
 plugins:
   - jekyll-feed
   - jekyll-pdf-embed
