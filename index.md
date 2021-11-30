@@ -7,7 +7,7 @@ layout: default
 #title: Hello!
 ---
 
-<img class="profile-picture" src="_imgs/test.png">
+<img class="profile-picture" src="/_imgs/test.png">
 
 ## About Me
 
