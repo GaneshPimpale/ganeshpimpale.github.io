@@ -9,8 +9,9 @@ is_contact: true
 
 ---
 
-## Socials
+## Connect with me!
 
-1. [LinkedIn](#)
-2. [GitHub](#)
-3. [Twitter](#)
+1. [LinkedIn](https://www.linkedin.com/in/ganesh-pimpale-864248155/)
+2. [GitHub](https://github.com/GaneshPimpale)
+3. [Twitter](https://twitter.com/ganeshmpimpale)
+4. [Instagram](https://www.instagram.com/ganesh.m.pimpale/)
