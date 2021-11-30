@@ -3,13 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [ganeshmp@berkeley.edu](mailto:ganeshmp@berkeley.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1(408)614-1269]
 
 ---
 
-## Social
+## Socials
 
 1. [LinkedIn](#)
 2. [GitHub](#)

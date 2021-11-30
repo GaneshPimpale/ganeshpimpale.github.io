@@ -1,6 +1,6 @@
 title: Ganesh Pimpale
 url: "ganeshpimpale.github.io"
-baseurl: "/home"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: ""
@@ -16,9 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/home/"
  - name: "Resume"
-   link: "_pdfs/11-29-2021RES.pdf"
+   link: "TEMP.pdf"
  - name: "Contact"
    link: "contact"

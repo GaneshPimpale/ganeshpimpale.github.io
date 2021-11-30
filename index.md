@@ -7,11 +7,11 @@ layout: default
 #title: Hello!
 ---
 
-<img class="profile-picture" src="/_imgs/test.png">
-
 ## About Me
 
-I am a student and aspiring researcher currently majoring in Mechanical Engineering at the University of California, Berkeley. 
+<img class="profile-picture" src="TEMP.png">
+
+I am a student and aspiring researcher currently majoring in Mechanical Engineering at the University of California, Berkeley.  
 
 
 ## Research
