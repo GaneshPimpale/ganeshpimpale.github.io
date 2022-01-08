@@ -3,6 +3,9 @@ layout: page
 title: Portfolio
 ---
 
+This page is currently in development. Please refer to my [resume](resume) to be linked to a few select projects. Apologies for the inconvience. 
+
+<!--
 <div>
 {% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
 {% for category in postsCategory %}
@@ -27,3 +30,4 @@ title: Portfolio
 </ul>
 {% endfor %}
 </div>
+-->
