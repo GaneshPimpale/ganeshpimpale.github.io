@@ -3,9 +3,6 @@ title: Ganesh Pimpale
 description: >
   Personal Website
 
-baseurl: "/home" # the subpath of your site, e.g. /blog/
-url: "https://ganeshpimpale.github.io" # the base hostname & protocol for your site
-
 author:
   fullname: "Ganesh Pimpale"
   github: "ganeshpimpale"
