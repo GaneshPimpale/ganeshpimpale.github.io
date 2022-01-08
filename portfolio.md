@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 ---
 
-This page is currently in development. Please refer to my [resume](resume) to be linked to a few select projects. Apologies for the inconvience. 
+This page is currently in development. Please refer to my [resume](resume) to be linked to a few select projects. Apologies for the inconvenience. 
 
 <!--
 <div>
