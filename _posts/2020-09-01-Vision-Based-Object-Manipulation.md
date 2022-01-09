@@ -3,7 +3,7 @@ layout: page
 title: "Vision Based Object Manipulation"
 subtitle: "Using a Human-Mimicking Hand Design with Pure Object Recognition Algorithms to Intelligently Grasp Complex Items"
 date:   2020-09-01 21:21:21 +0530
-categories: Robotics
+categories: ["Robotics and Automation"]
 ---
 
 Created under the supervision of Professor Tsachy Wiessman and Doctor Shubham Chandak and with the help of Evan Huang, Joanne Hui, Michelle Lu, and Jennifer Song.

@@ -3,7 +3,7 @@ layout: page
 title: "Marine Autonomous Litter Collector (MALC)"
 subtitle: "A Novel Method of Collecting Surface Trash in Bodies of Water"
 date:   2019-05-01 21:21:21 +0530
-categories: Robotics
+categories: ["Robotics and Automation"]
 ---
 
 # Abstract
