@@ -16,6 +16,7 @@ Our GPS was adequately accurate, although this was in a limited testing environm
 With all the trash currently in the oceans and the lack of other solutions, our project has the potential to be used to help clean large bodies of water. There are many other features that can be improved or redesigned to maximise the efficiency of our boat. In order for our design to make a lasting impact upon the marine environment many modifications could be made to streamline and optimise M.A.L.C. a) A more compact and efficient way to store and dispose of collected pollutants, b) An efficient system for turning the garbage dump, c) The effectiveness of M.A.L.C in polluted waters for a real-life representation.
 
 # Paper
+[Gallery](https://drive.google.com/drive/folders/1IIDTUK7qGPNuPxdZ4qn0_LSCaVnkF5ME?usp=sharing)
 <object data="{{'/assets/pdf/(MALC)SJWP-Reasearch-Paper.pdf' | prepend: site.baseurl}}" type="application/pdf" width="800px" height="1100px">
     <embed src="{{'/assets/pdf/(MALC)SJWP-Reasearch-Paper.pdf' | prepend: site.baseurl}}">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{'/assets/pdf/(MALC)SJWP-Reasearch-Paper.pdf' | prepend: site.baseurl}}">Download PDF</a>.</p>
