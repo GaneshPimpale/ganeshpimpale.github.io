@@ -2,7 +2,7 @@
 layout: page
 title: "content styles"
 subtitle: "This is a subtitle"
-date:   2000-01-01 21:21:21 +0530
+date:   1970-01-01 21:21:21 +0530
 categories: .etc
 author: "First Last"
 meta: "Hello"
