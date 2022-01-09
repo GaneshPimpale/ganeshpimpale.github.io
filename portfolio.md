@@ -3,9 +3,6 @@ layout: page
 title: Portfolio
 ---
 
-This page is currently in development. Please refer to my [resume](resume) to be linked to a few select projects. Apologies for the inconvience. 
-
-<!--
 <div>
 {% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
 {% for category in postsCategory %}
@@ -23,11 +20,10 @@ This page is currently in development. Please refer to my [resume](resume) to be
 <li class="post-teaser">
 <a href="{{ post.url | prepend: site.baseurl }}">
 <span class="post-teaser__title">{{ post.title }}</span>
-<span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
+<span class="post-teaser__date">{{ post.date | date: "%B %Y" }}</span>
 </a>
 </li>
 {% endfor %}
 </ul>
 {% endfor %}
 </div>
--->
