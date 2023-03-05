@@ -3,7 +3,7 @@ layout: page
 title: "Human-Based Image Compression"
 subtitle: "Using a Deterministic Computer Algorithm to Reconstruct Pre-Segmented ImagesAn Optimization to Train Facial Emotion Detection Learning Models"
 date:   2019-09-01 21:21:21 +0530
-categories: ["Image Processing"]
+categories: ["Image and Video Processing"]
 ---
 
 Created with Vivaan Mahtab, Juan Aldama, and Paul Truong under the supervision of Professor Tsachy Wiessman and Doctor Shubham Chandak.

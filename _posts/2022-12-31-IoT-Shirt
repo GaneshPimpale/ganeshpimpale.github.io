@@ -1,0 +1,22 @@
+---
+layout: page
+title: "Volumetric Lung Measurements"
+subtitle: "Development and Performance of an IoT-Enabled Shirt Measuring Pulmonary Data"
+date: 2022-12-31 21:21:21 +0530
+categories: ["Wearable Tech"] 
+---
+
+# Abstract
+The majority of devices designed to measure pulmonary data, specifically lung volume, are invasive; attaching to the mouth and/or nose making them difficult to wear for long periods of time. This paper goes over our design, development, and performance of a noninvasive, IoT-enabled pulmonary data measurement device. Our device uses a system of capacitive sensors to measure the expansion of the chest which is simple in terms of its mechanical design but requires a detailed calibration process. 
+
+Code can be found [https://github.com/GaneshPimpale/Pulmonary-IOT-shirt](here).
+
+[https://tinyurl.com/me100VidDemo](Demonstration)
+
+
+# Paper
+<object data="{{'/assets/pdf/IOT-shirt.pdf' | prepend: site.baseurl}}" type="application/pdf" width="800px" height="1100px">
+    <embed src="{{'/assets/pdf/IOT-shirt.pdf' | prepend: site.baseurl}}">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{'/assets/pdf/IOT-shirt.pdf' | prepend: site.baseurl}}">Download PDF</a>.</p>
+    </embed>
+</object>
