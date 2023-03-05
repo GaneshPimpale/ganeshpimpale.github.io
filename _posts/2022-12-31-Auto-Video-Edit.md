@@ -3,7 +3,7 @@ layout: page
 title: "Auto Video Edit"
 subtitle: "Development and Performance of Inner-Video-Search Python Package"
 date: 2022-12-31 21:21:21 +0530
-categories: [Image and Video Processing]
+categories: ["Image and Video Processing"]
 ---
 
 # Abstract
